@@ -1,0 +1,48 @@
+p {
+      color: red;
+      width: 300px;
+
+}
+
+h1 {
+      border: 1px solid red;
+      padding: 5px;
+      margin: 30px;
+      color: gray;
+      
+}
+/** esto es un comentario en css*/
+
+section {
+      width: 350px;
+      border: 15px solid green;
+      padding-top: 50px;
+      padding-left: 25px;
+      padding-bottom: 40px;
+      padding-right: 25px;
+      margin: 10px;
+}
+
+#mi_parrafo {
+      color: darkorange;
+      font-size: 25px;
+      border: 2px solid orangered;
+}
+
+.estaEsMiClase {
+      font-weight: bold;
+      color: lightblue;
+}
+section h1 {
+      font-weight: bold;
+      color: greenyellow;
+      font-size: 60px;
+}
+ 
+* {
+      font-family: 'Oxygen', sans-serif;
+}
+
+* {
+      box-sizing: border-box;
+}
